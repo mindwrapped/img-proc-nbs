@@ -1,6 +1,6 @@
 ## Image Processing Notebooks
 
-This repo contains image processing notebooks that contain reports and experiments.
+This repo contains image processing notebooks that I did in university.
 
 #### Project 2 - Part A
 
