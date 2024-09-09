@@ -1,6 +1,6 @@
 ## Image Processing Notebooks
 
-This repo contains image processing notebooks that I did in university.
+This repo contains html pages of the image processing notebooks that I did in university. I have the original source locally.
 
 #### Project 2 - Part A
 
